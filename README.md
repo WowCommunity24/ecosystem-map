@@ -268,6 +268,7 @@
 | PaperPlane | [Telegram](https://t.me/PaperPlaneGameBot) | [GitHub](https://github.com/paperplaneonton) | [Twitter](https://twitter.com/paperplane_ton) | [Website](https://paperplanetoken.site) |
 | TON SHIP     | [Telegram](https://t.me/TonShipCom)     | [GitHub](https://github.com/TonShipCom) | [Twitter](https://twitter.com/TonShipCom)  | [Website](https://tonship.com)  |
 | TON Map     | [Telegram](https://t.me/tonmap)     | [GitHub](https://github.com/OtherVerse) | [Twitter](https://twitter.com/thetonmap)  | [Website](https://tonmap.app)  |
+| WOW Bot     | [Telegram](https://t.me/Wowairdropbot/wow) |                                       | [Twitter](https://x.com/wowCommunityX)  | [Website](https://thewarriorofwealth.com/)  |
 
 ### Storage
 
